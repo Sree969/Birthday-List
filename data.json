@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "name":"Sree",
+            "age":20,
+            "dob":"20-2-2002",
+            "src":"https://cdn.pixabay.com/photo/2016/03/11/17/31/girl-1250679_1280.jpg"
+        },
+        {
+            "name":"Stella",
+            "age":21,
+            "dob":"06-02-2003",
+            "src":"https://cdn.pixabay.com/photo/2015/04/24/20/58/girl-738303_640.jpg"
+        },
+        {
+            "name":"Jessy",
+            "age":20,
+            "dob":"13-02-2002",
+            "src":"https://cdn.pixabay.com/photo/2020/12/20/09/08/girl-5846483_1280.jpg"
+        },
+        {
+            "name":"Nonya",
+            "age":21,
+            "dob":"06-02-2003",
+            "src":"https://media.istockphoto.com/id/1352096257/photo/portrait-of-small-girl-in-living-room-at-home.jpg?s=1024x1024&w=is&k=20&c=tn8B6Xnx48JDGewPRGCZmXmvanGmVzIJKBLV9OETaEA="
+        },
+        {
+            "name":"Diana",
+            "age":19,
+            "dob":"19-01-2002",
+            "src":"https://cdn.pixabay.com/photo/2016/11/19/14/39/girl-1839623_1280.jpg"
+        }
+    ]
+}
